@@ -1,0 +1,6 @@
+[submodule "hrishikesh"]
+	path = hrishikesh
+	url = https://github.com/VishnuVahanDas/hrishikesh.git
+[submodule "hrishikesh-dashboard"]
+	path = hrishikesh-dashboard
+	url = https://github.com/VishnuVahanDas/hrishikesh-dashboard.git
