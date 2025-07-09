@@ -1,7 +1,12 @@
 # Hrishikesh Workspace
 
-This repository aggregates the `hrishikesh` and `hrishikesh-dashboard` submodules.
+This repository acts as a container for multiple git submodules that hold the main application code.
 
-## License
+To set up this project after cloning, initialize and update the submodules with:
 
-This project is licensed under the [MIT License](LICENSE).
+```bash
+git submodule update --init --recursive
+```
+
+The directories `hrishikesh` and `hrishikesh-dashboard` will then contain their respective codebases.
+
